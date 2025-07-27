@@ -18,7 +18,7 @@ Introduction|If I'd Known What We Were Starting (2017)|[If I'd Known What We Wer
 Introduction|Bitcoin's Academic Pedigree (2017)|[Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)|
 Introduction|Intro to Blockchain|[What is blockchain anyway?](https://www.youtube.com/watch?v=on5ySFK0aoY)|
 Introduction|Intro to Blockchain|[Electronic cash explained for developers video](https://www.youtube.com/watch?v=TrF9RmfyLbw)|
-Introduction|The Economic Limits of Bitcoin and the Blockchain|[The Economic Limits of Bitcoin and the Blockchain](https://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf)|
+Introduction|The Economic Limits of Bitcoin and the Blockchain|[The Economic Limits of Bitcoin and the Blockchain](https://socialsciences.uchicago.edu/sites/default/files/2024-09/Economic%20Limits%20Crypto%20Blockchains%20-%20QJE%20Sept%202024.pdf)|
 Introduction|Proof of work|[The Anatomy of Proof-of-Work](https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667), [Bitcoin Developer Reference](https://lopp.net/pdf/Bitcoin_Developer_Reference.pdf)|
 Introduction|Difficulty adjustment|[What keeps the average block time at 10 minutes?](https://bitcoin.stackexchange.com/questions/855/what-keeps-the-average-block-time-at-10-minutes/857#857)|
 Introduction|Byzantine generals problem|[The Byzantine Generals Problem](http://diyhpl.us/~bryan/papers2/bitcoin/The%20Byzantine%20generals%20problem%20-%20Lamport%20-%201982.pdf)|
